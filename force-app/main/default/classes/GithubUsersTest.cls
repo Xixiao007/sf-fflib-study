@@ -6,7 +6,7 @@ public with sharing class GithubUsersTest {
     GithubUser__c githubUser = new GithubUser__c(Name = 'testUser');
 
     Test.startTest();
-    GithubUsers githubUsers = new GithubUsers(new List<GithubUser__c>{ githubUsr });
+    GithubUsers githubUsers = new GithubUsers(new List<GithubUser__c>{ githubUser });
     githubUsers.upsertRecords();
     Test.stopTest();
 
