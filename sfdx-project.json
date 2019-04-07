@@ -7,6 +7,10 @@
     {
 			"path": "fflib-apex-mock",
 			"default": false
+		},
+    {
+			"path": "fflib-apex-common",
+			"default": false
 		}
   ],
   "namespace": "",
