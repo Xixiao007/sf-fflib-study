@@ -1,3 +1,7 @@
+# Purpose
+
+Learn how to use fflib-mocks and fflib-common by playing around in Scratch org.
+
 # Add fflib-mocks and fflib-common to DX project
 
 At the DX root path:
